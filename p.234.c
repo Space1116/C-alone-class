@@ -2,8 +2,7 @@
 
 int rec_func(int n);
 
-int main(void)
-{
+int main(void) {
     int total_sum;
     total_sum = rec_func(10);
     printf("%d\n", total_sum);
