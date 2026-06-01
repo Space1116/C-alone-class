@@ -2,8 +2,7 @@
 
 void sum(int n);
 
-int main(void)
-{
+int main(void) {
     sum(10);
     sum(100);
     return 0;
