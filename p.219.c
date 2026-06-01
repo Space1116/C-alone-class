@@ -2,8 +2,7 @@
 
 double centi_to_meter(int cm);
 
-int main(void)
-{
+int main(void) {
     double res;
 
     res = centi_to_meter(187);
@@ -12,8 +11,7 @@ int main(void)
     return 0;
 }
 
-double centi_to_meter(int cm)
-{
+double centi_to_meter(int cm) {
     double meter;
     meter = cm / 100.0;
     return meter;
