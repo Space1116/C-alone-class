@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿//switc~case문
 #include <stdio.h>
+=======
+﻿#include <stdio.h>
+>>>>>>> f759c4d0a297e27a4bbe0b6212ec21cc98a6382c
 int main(void)
 {
     int num1, num2, res; //계산값 두 개와 결과값을 넣은 변수 선언
