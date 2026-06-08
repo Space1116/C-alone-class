@@ -1,6 +1,6 @@
-﻿int chset = 95; //가슴둘레의 크기를 저장할 변수
+﻿int chest = 95; //가슴둘레의 크기를 저장할 변수
 char size; //사이즈 크기를 저장할 변수
-if (chset <= 90)
+if (chest <= 90)
 {
     size = 'S';
 }
