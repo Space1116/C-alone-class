@@ -17,7 +17,7 @@ int main(void)
 	}
 
 	printf("바뀐 문장 : ");
-	puts(str); //printf절 뒤에 줄바꿈 없이 바로 puts절이 나와서 한 줄로 보임. str출력.
+	puts(str); //printf절 뒤에 줄바꿈 없이 바로 puts절이 나와서 한 줄로 보임. str출력!
 	printf("바뀐 문자 수 : %d", cnt);
 
 	return 0;
