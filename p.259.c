@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//확인문제 3번: 2개의 문자열을 받아서 위치를 바꾼 후 출력
+
+#include <stdio.h>
 #include <string.h>
 
 int main(void)

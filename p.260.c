@@ -1,4 +1,7 @@
-﻿#include <stdio.h>
+﻿// 도전실전예제: 대소문자 변환 프로그램
+
+
+#include <stdio.h>
 
 int main(void)
 {
