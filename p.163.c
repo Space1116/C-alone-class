@@ -9,7 +9,7 @@ else if (chest = < 100)
 {
     size = 'M';
 }
-//if문의 요건(chest =< 90)도 충족하지 않고, chest가 100보다 작거나 같으면 size는 M
+//if문의 요건(chest =< 90)도 충족하지 않고, chest가 100보다 작거나 같으면 size는 M.
 else
 {
     size = 'L';
