@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿﻿//for문과 if~else문의 중첩
+=======
+﻿//for문과 if~else문의 중첩
+>>>>>>> 7994aca3536ff5f0011292db3ed1c5e23ad5fb14
 #include <stdio.h>
 int main(void)
 {
@@ -15,6 +19,9 @@ int main(void)
     }
     return 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7994aca3536ff5f0011292db3ed1c5e23ad5fb14
 //표로 표현하면 if의 조건문이 만족하는 경우들이 X자를 이룬다.
 //도식화(표) 참고

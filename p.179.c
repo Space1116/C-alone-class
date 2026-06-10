@@ -17,4 +17,5 @@ int main(void)
         else size = 'L';
     }
     printf("사이즈는 %c입니다.\n", size); // 최종 size에 들어간 값을 토대로 출력
+    return 0;
 }
