@@ -1,10 +1,7 @@
 ﻿//switc~case문
 
 #include <stdio.h>
-<<<<<<< HEAD
-=======
 
->>>>>>> 7994aca3536ff5f0011292db3ed1c5e23ad5fb14
 int main(void)
 {
     int num1, num2, res; //계산값 두 개와 결과값을 넣은 변수 선언

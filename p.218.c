@@ -1,4 +1,4 @@
-﻿<<<<<<< HEAD
+﻿
 ﻿double res;
 
 res = average(1.5, 3.4);
