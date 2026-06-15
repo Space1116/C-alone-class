@@ -1,4 +1,5 @@
-﻿
+﻿//확인문제 1번
+
 ﻿double res;
 
 res = average(1.5, 3.4);

@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//확인문제 3번
+
+#include <stdio.h>
 int main(void)
 {
     double height = 179.5; //키를 저장할 변수를 선언함과 동시에 변수를 179.5로 초기화

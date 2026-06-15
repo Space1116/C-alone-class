@@ -1,4 +1,5 @@
-﻿﻿﻿//for문과 if~else문의 중첩
+﻿//확인문제 3번﻿﻿
+//for문과 if~else문의 중첩
 
 #include <stdio.h>
 int main(void)

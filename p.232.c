@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//확인문제 2번
+
+#include <stdio.h>
 
 void sum(int n); //sum이라는 함수를 선언
 

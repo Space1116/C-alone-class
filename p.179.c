@@ -1,4 +1,5 @@
-﻿//if문 중첩
+﻿// 확인문제 3번
+//if문 중첩
 #include <stdio.h>
 int main(void)
 {

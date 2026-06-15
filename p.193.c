@@ -1,4 +1,5 @@
-﻿//for문
+﻿//확인문제 3번
+//for문
 #include <stdio.h>
 int main(void)
 {

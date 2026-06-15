@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//도전 실전 예제
+
+#include <stdio.h>
 
 int rec_func(int n); //'rec_func'라는 함수 선언
 

@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//확인문제 2번
+
+#include <stdio.h>
 int main(void)
 {
     int n; //입력값을 받을 변수 선언

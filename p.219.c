@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//확인문제 3번
+
+#include <stdio.h>
 
 double centi_to_meter(int cm); //'cm'라는 변수의 값을 인수로 받는 'centi_to_meter'라는 함수를 선언. 함수를 선언할 때는 main함수 밖에 쓴다.
 
